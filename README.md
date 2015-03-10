@@ -1,5 +1,7 @@
 # Where is General Assembly? - Ruby on Rails App
 
+[![Code Climate](https://codeclimate.com/github/iposton/weather-app-heroku/badges/gpa.svg)](https://codeclimate.com/github/iposton/weather-app-heroku)
+
 # Google Maps API
 
 #HTTParty connects to openweathermap.org
